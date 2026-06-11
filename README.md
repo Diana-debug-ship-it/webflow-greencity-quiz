@@ -4,7 +4,7 @@
 
 * **Статус проекта:** В продакшене.
 * **Ссылка на сайт:** [deals.greencityre.org/ru/](https://greencityre.org)
-* **Инструменты разработки:** Webflow, Webflow Interactions, Custom HTML/CSS/JS.
+* **Инструменты разработки:** Webflow, Webflow Interactions.
 
 ---
 
